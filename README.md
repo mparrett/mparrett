@@ -1,12 +1,12 @@
-### Hi there! 👋
+### Hey there!
 
-I'm Matt, a Machine Learning Platform Engineer at Sprout Social, where I work on our ML platform. My experience includes roles at Mercari US and Alexa. If you're delving into something interesting in the ML world or just want to discuss the latest in AI, feel free to reach out! I’m always eager to connect and learn with fellow enthusiasts.
+I'm Matt, a Machine Learning Platform Engineer at Sprout Social. I've worked on ML platforms at places like Mercari US and Amazon Alexa. If you're working on something interesting in ML or want to talk about where AI is headed, hit me up.
 
-🥋 On the personal side, I'm a dad to two boys and our family's Weimaraner. When I'm not in tech mode, you can find me practicing Brazilian Jiu-Jitsu or exploring the great outdoors of the Pacific Northwest.
+I'm a dad to two boys and our Weimaraner. When I'm not building things, I'm usually doing Brazilian Jiu-Jitsu or getting outside here in the Pacific Northwest.
 
-- 👀 Trying to keep up with the insane developments with large language models
-- 💞️ Let's build something great together!
-- 📫 How to reach me: [mattparrett on LinkedIn](https://www.linkedin.com/in/mattparrett/)
+- Trying to keep up with what's happening in large language models
+- Always down to collaborate on tough problems
+- Reach me: [mattparrett on LinkedIn](https://www.linkedin.com/in/mattparrett/)
 
 <!---
 mparrett/mparrett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
